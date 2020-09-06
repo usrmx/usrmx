@@ -12,6 +12,7 @@
 * 🤓 [Reddit](https://www.reddit.com/user/w1zm8)
 * 👨‍💻 [Dev.to](https://dev.to/w1zm8)
 * 📝 [Medium](https://medium.com/@w1zm8)
+* 📗 [Hacker Noon](https://hackernoon.com/u/w1zm8)
 * ❓ [Stack Overflow](https://stackoverflow.com/users/10805030/w1zm8)
 * 🍊 [HN](https://news.ycombinator.com/user?id=w1zm8)
 * ⭐️ [Patreon](https://www.patreon.com/w1zm8)
