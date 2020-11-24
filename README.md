@@ -4,7 +4,7 @@
 * 👨‍💻 I'm a software developer
 * 🧙‍♂️ I specialize in the TypeScript/JavaScript ecosystem
 
-🔗 My links:
+## 🔗 My links:
 
 * ✉️ [w1zm8@hey.com](mailto:w1zm8@hey.com)
 * 🧙‍♂️ [w1zm8.com](http://www.w1zm8.com)
