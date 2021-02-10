@@ -9,7 +9,7 @@
 * [w1zm8@hey.com](mailto:w1zm8@hey.com)
 * [w1zm8.com](http://www.w1zm8.com)
 * [Twitter](https://twitter.com/w1zm8)
-* [r/w1zm8](https://www.reddit.com/r/w1zm8/)
+* [r/l0g](https://www.reddit.com/r/l0g)
 * [Dev.to](https://dev.to/w1zm8)
 * [Medium](https://medium.com/@w1zm8)
 * [Hacker Noon](https://hackernoon.com/u/w1zm8)
