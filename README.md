@@ -6,18 +6,15 @@
 
 ## My links:
 
-* [w1zm8@hey.com](mailto:w1zm8@hey.com)
-* [w1zm8.com](http://www.w1zm8.com)
-* [Twitter](https://twitter.com/w1zm8)
-* [r/l0g](https://www.reddit.com/r/l0g)
-* [Dev.to](https://dev.to/w1zm8)
-* [Medium](https://medium.com/@w1zm8)
-* [Hacker Noon](https://hackernoon.com/u/w1zm8)
+* [usrmx@hey.com](mailto:usrmx@hey.com)
+* [Twitter](https://twitter.com/usrmx)
+* [Reddit](https://www.reddit.com/user/usrmx)
+* [Dev.to](https://dev.to/usrmx)
+* [Medium](https://medium.com/@usrmx)
+* [Hacker Noon](https://hackernoon.com/u/usrmx)
 * [Stack Overflow](https://stackoverflow.com/users/10805030/w1zm8)
-* [HN](https://news.ycombinator.com/user?id=w1zm8)
-* [Patreon](https://www.patreon.com/w1zm8)
-* [Discord](https://discord.com/invite/Gb47xvG)
-* [Open Collective](https://opencollective.com/vv1zm8)
-* [IndieHackers](https://www.indiehackers.com/w1zm8)
+* [HN](https://news.ycombinator.com/user?id=usrmx)
+* [Patreon](https://www.patreon.com/usrmx)
+* [Open Collective](https://opencollective.com/usrmx)
+* [IndieHackers](https://www.indiehackers.com/usrmx)
 
-[![HitCount](http://hits.dwyl.com/w1zm8/https://githubcom/w1zm8/w1zm8.svg)](http://hits.dwyl.com/w1zm8/https://githubcom/w1zm8/w1zm8)
