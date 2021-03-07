@@ -6,7 +6,7 @@
 
 ## My links:
 
-* [usrmx@hey.com](mailto:usrmx@hey.com)
+* [me@usrmx.com](mailto:me@usrmx.com)
 * [Twitter](https://twitter.com/usrmx)
 * [Reddit](https://www.reddit.com/user/usrmx)
 * [Dev.to](https://dev.to/usrmx)
