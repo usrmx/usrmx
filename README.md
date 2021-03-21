@@ -6,7 +6,8 @@
 
 ## My links:
 
-* [me@usrmx.com](mailto:me@novemist.com)
+* [novemist.com](https://novemist.com)
+* [me@novemist.com](mailto:me@novemist.com)
 * [Twitter](https://twitter.com/novemist)
 * [Reddit](https://www.reddit.com/user/novemist)
 * [Dev.to](https://dev.to/novemist)
