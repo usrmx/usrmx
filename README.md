@@ -6,16 +6,16 @@
 
 ## My links:
 
-* [novemist.com](https://novemist.com)
-* [me@novemist.com](mailto:me@novemist.com)
-* [Twitter](https://twitter.com/novemist)
-* [Reddit](https://www.reddit.com/user/novemist)
-* [Dev.to](https://dev.to/novemist)
-* [Medium](https://medium.com/@novemist)
-* [Hacker Noon](https://hackernoon.com/u/novemist)
+* [mxkvl.com](https://mxkvl.com)
+* [me@mxkvl.com](mailto:me@mxkvl.com)
+* [Twitter](https://twitter.com/mxkwl)
+* [Reddit](https://www.reddit.com/user/maxkvl)
+* [Dev.to](https://dev.to/mxkvl)
+* [Medium](https://medium.com/@mxkvl)
+* [Hacker Noon](https://hackernoon.com/u/mxkvl)
 * [Stack Overflow](https://stackoverflow.com/users/10805030/w1zm8)
-* [HN](https://news.ycombinator.com/user?id=novemist)
-* [Patreon](https://www.patreon.com/novemist)
-* [Open Collective](https://opencollective.com/novemist)
-* [IndieHackers](https://www.indiehackers.com/novemist)
+* [HN](https://news.ycombinator.com/user?id=mxkvl)
+* [Patreon](https://www.patreon.com/mxkvl)
+* [Open Collective](https://opencollective.com/mxkvl)
+* [IndieHackers](https://www.indiehackers.com/mxkvl)
 
